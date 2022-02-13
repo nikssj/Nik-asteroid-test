@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "632252585072",
+    "firebase_url": "https://nik-asteroid-test-default-rtdb.firebaseio.com",
+    "project_id": "nik-asteroid-test",
+    "storage_bucket": "nik-asteroid-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632252585072:android:ff6131d0919b51e99ed0b5",
+        "android_client_info": {
+          "package_name": "com.nik.asteroidtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632252585072-n18mnv90tdedi5qpvl1c403gh2d0jfnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdQIaRBetD8wVRnKLkarsvaa_Sx_InhNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632252585072-n18mnv90tdedi5qpvl1c403gh2d0jfnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
